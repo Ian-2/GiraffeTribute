@@ -1,0 +1,56 @@
+* {
+  font-family: "Verdana"; Tahoma;
+  color: #black;
+}
+
+body {
+  background-color: #DAF7A6;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-size: .9rem;
+
+  text-align: left;
+  margin-left: 3%
+}
+
+headline {
+  margin: 50px 0;
+  text-align: right;
+}
+
+.facts {
+  font-size: .8rem;
+  padding: 10px;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin:0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+figcaption {
+  font-size: .7rem;
+
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
